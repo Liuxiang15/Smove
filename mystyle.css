@@ -1,0 +1,33 @@
+
+
+#Startbutton{
+    position: absolute;
+    left:650px;
+    top:400px;
+    width:200px;
+    height:100px;
+    font-family: "Times New Roman";
+    font-size: 50px;
+    border-radius: 5px;
+    border: 1px solid #FF0000;
+    color:#FFFFFF;
+    background-color:#ff0000;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    opacity: 1;
+}
+#ReStartbutton{
+    display:none;
+    position: absolute;
+    left:560px;
+    top:400px;
+    width:400px;
+    height:100px;
+    font-family: "Times New Roman";
+    font-size: 50px;
+    border-radius: 5px;
+    border: 1px solid #FF0000;
+    color:#FFFFFF;
+    background-color:#ff0000;
+	opacity: 1;
+}
+
